@@ -1,0 +1,9 @@
+{
+    "AWS": {
+      "accessKeyId":"AKIA4K75VNYLHR7RBQU7",
+      "secretAccessKey":"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",
+      "region":"us-east-1",
+      "SenderEmailId":"<sristi.shetty23@gmail.com>"
+    },
+    "port": 3500
+  }
